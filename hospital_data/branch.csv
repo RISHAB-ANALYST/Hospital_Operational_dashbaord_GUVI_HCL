@@ -1,0 +1,4 @@
+branch_id,branch_name,total_beds,icu_beds
+B001,Delhi Central,400,60
+B002,Mumbai West,350,50
+B003,Bangalore North,300,40

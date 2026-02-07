@@ -1,0 +1,19 @@
+department_id,department_name,branch_id
+D101,Cardiology,B001
+D102,Oncology,B001
+D103,Orthopedics,B001
+D104,Pediatrics,B001
+D105,Emergency,B001
+D106,General Medicine,B001
+D201,Cardiology,B002
+D202,Oncology,B002
+D203,Orthopedics,B002
+D204,Pediatrics,B002
+D205,Emergency,B002
+D206,General Medicine,B002
+D301,Cardiology,B003
+D302,Oncology,B003
+D303,Orthopedics,B003
+D304,Pediatrics,B003
+D305,Emergency,B003
+D306,General Medicine,B003
